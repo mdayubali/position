@@ -5,7 +5,11 @@
     background: linear-gradient(to left, aqua, cyan);
     overflow: hidden;
 }
-
+h2{
+    margin: 45% auto;
+    display: inline-block;
+    text-align: center;
+}
 .child-box{
     width: 100%;
     height: 100%;
